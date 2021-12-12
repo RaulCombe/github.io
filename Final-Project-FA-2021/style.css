@@ -1,0 +1,25 @@
+body {
+  font-family: 'Monoton', cursive;
+  background-color: black;
+  color: rgba(204, 53, 53, 1);
+}
+
+main {
+  background-color: black;
+  color: rgba(204, 53, 53, 1);
+  padding: 300px;
+}
+
+footer {
+  background-image: ("deck.jpg");
+  height: 100px;
+}
+
+#button {
+  font-family: 'Monoton', cursive;
+  color: black;
+  background-color: rgba(204, 53, 53, 1);
+  font-size: 20px;
+  font-weight: bold;
+  border: 3px solid;
+}
